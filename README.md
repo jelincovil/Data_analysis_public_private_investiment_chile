@@ -5,9 +5,13 @@ desde $2010$ al $2020$. El repositorio se actualizará a lo largo del tiempo. Pr
 software Power BI y lenguaje Python y R. Algunos trabajos de alumnos son presentados respetando sus respectivas autorías. 
 
 Para visualizar algunos análisis e interpretaciones pueden ver mi canal de YouTube:
+
 ## Datos de inversión publica
 
 Los datos en este repositorio abordan los datos por sectores y subsectores. Fueron descargadas del siguiente   sitio
+ ### Variables y sus unidades
+ **Monto asignado:**
+ 
 
 https://bipdata.ministeriodesarrollosocial.gob.cl/
 
