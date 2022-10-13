@@ -19,3 +19,4 @@ https://bipdata.ministeriodesarrollosocial.gob.cl/
 
 Los datos de inversión privada fueron descargados desde el sitio del Banco Central de Chile: https://si3.bcentral.cl/estadisticas/Principal1/enlaces/IED/IED.html
 
+![plot](./directory_1/directory_2/.../directory_n/plot.png)
